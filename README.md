@@ -1,10 +1,5 @@
 # 基于SSM的二手车交易管理系统
 
-## 获取方式
-
-扫描下方，回复关键词  ：**二手车2**
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
@@ -80,11 +75,4 @@
 
 ![设计文档目录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206172229568.jpg)
 
-## 5、获取方式
-
-扫描下方，回复关键词  ：**二手车2**
-
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
